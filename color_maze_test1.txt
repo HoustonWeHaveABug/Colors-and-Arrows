@@ -1,0 +1,9 @@
+4
+A B C D
+5 5
+0
+X X X X X
+X X X X X
+X X X X X
+A B C D X
+D C B A X

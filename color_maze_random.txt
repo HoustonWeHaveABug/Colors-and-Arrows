@@ -1,0 +1,44 @@
+8
+R O G B O Y O P
+40 40
+0
+B Y O G O O O P O O Y Y G O G Y O O O O P R O R O O Y O O B O R B O B Y P Y B Y
+Y O B P O R O O O O O R O R R Y P Y O O R R O O G Y P G O O G O Y O O O B P B O
+O B G O G P O P P G O P B B Y R O P P O Y G Y O R B R R Y R R O R O P O O B Y R
+O O O R P O Y O P O R P P O B G B O O P B B O Y B Y O O O R O R R O G O Y G R Y
+O Y G O O B O P O G O O R O R R G O O O O O Y O P P B R G Y R P O Y O O O O O R
+P O B O B G B O Y O B Y O O R G Y R B Y O P O O R O P O G O O O O O R P R Y O O
+O B G B R O O Y O B G O R O G P R O O O O Y G O O P O O B Y O P O P B B O O O O
+B G O G P R O O O R P O P O Y O P R G B P P O R Y Y P O R G B O Y Y Y O R O O Y
+O O R O O O R O G P O Y O P P B O O B R O O B O R P O B P O G O G O R O B O Y P
+P G P O Y O P R O G B O Y O O G O O R O Y O Y O O O Y G O R B R O G B O Y O O O
+O P O B O P R B O O G B O P R P R O O P O Y O O G B G O R P O P R B R P O P R O
+Y O B G P G O G B R O O P O P O Y O B O B O Y R O O Y G O G Y O P O B O Y O O G
+O Y G O O B R O R P R O O Y O Y O B G O G B O P O Y O O R P O Y G Y G B O P O G
+O O P R O G P O P O P G Y O B O B O O R O G B O Y O O O Y O B O O G O G Y O B O
+R O O O R O O Y O Y O O G B G O G B O P R O O Y O O R P O B G O R P R O O P G O
+P O Y O P O O O B G O R O G O R O G Y O O G B O O P O G O O B G P O P G O G P R
+R O O B O B R O O O R P O Y O P G B O O G P O O R O R P R P O P O Y R P R O O O
+Y R Y G O G P G B O O O Y O Y O P O P R O O Y O P B O O P O Y O Y O Y O P R Y O
+O P O B R P O P O P O Y O B O Y O O R O O B O Y O P O Y O Y O P O B G P R P O Y
+B O O R P O Y O Y O P O P G B O P R P R O G B O Y O Y O Y O O R O G O G O R B G
+G O G P O P O B O B O Y O O G B O Y O P O Y O P O P O B O B G O R B R O G B O O
+O R P O Y O O G O G B O P R O O B O Y O Y O P O P O B G Y O O R P O P R O G O R
+R P O Y O O R P R Y O P O O G Y G Y O P O B G B O Y G O O Y O P O Y O O R P O P
+B G P O B G O O Y O Y O B O B O O G B O Y G O O O O Y R B O O R P O Y O O O Y O
+O O R O G O R P R B O Y G B O O R O G B G O R P R O O P G O R O G B O Y O O O B
+B G O G G O O P B G Y O O O B O P O P O O G O O Y O B G O R P O P G P O O R O G
+O O G G O R P O O O G B R O G B O Y O O R O R O O Y O Y O O R Y O O O B G P O B
+O Y G O G O O Y O R O G P O Y O Y O O G P G P R Y O Y O Y O O O O R O G P O Y O
+B G O R O G P O B P O B O Y O Y O O R P O P O Y O P O B O Y O B O P R B O Y O P
+O B R P R P G O G O Y O P O O O P O O O Y O Y O B O B G O R O G Y O P R O O P R
+O O O O Y O O R O B O P R O R O O Y O B G B O Y G Y O O R P R O G B G O G Y O O
+R B G Y O Y O P B G P O P O P R P O Y O O R P O O G B O P O O R O G O G B O P R
+P O O G B O P Y O O G B O Y O O G B O P R O O O R P O Y O Y O P R O R O G B O O
+O P R O G P R G O R O O Y O P R O B O B O Y B G O O Y O B G O G O R P R O G Y R
+Y G O R O G P O R P O P O Y O P G G O G G O G B G P O Y R P R O G P O P R O R P
+O P G P G Y O P P O Y O P O O Y G O R P R G O G O G P O P O O O B O Y O P R P O
+B O B O Y O Y O P P O B O B O O B O O O G O R O R P O B O Y O Y O P R O R P O Y
+G O R P O B O Y O R Y G G G O B O B O Y O G P O O O Y G B O B O Y O P R O O B G
+O R P O Y G B O G O G O O O G G O G G G O P O Y O B G O O B G B O Y G O G O G O
+R O R O R O G R O R O R R R R O R O O R R O R O Y O O R O O O R R R O R O R O R

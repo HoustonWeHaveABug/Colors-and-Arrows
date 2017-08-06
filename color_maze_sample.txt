@@ -1,0 +1,9 @@
+2
+O G
+5 5
+0
+B O R O Y
+O R B G R
+B O G O Y
+Y G B Y G
+R O R B R
